@@ -1,0 +1,39 @@
+baseURL: https://playbooks.focusconsulting.com/
+title: Focus Consulting AI Playbooks
+theme: hugo-book
+languageCode: en-us
+
+enableGitInfo: true
+
+taxonomies:
+  tag: tags
+  category: categories
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    renderHooks:
+      link:
+        useEmbedded: "fallback"
+  tableOfContents:
+    startLevel: 2
+    endLevel: 4
+  highlight:
+    style: base16-snazzy
+
+menu:
+  after:
+    - name: "GitHub"
+      url: "https://github.com/focusconsulting/focus-ai-playbooks"
+      weight: 10
+
+params:
+  BookTheme: "auto"
+  BookToC: true
+  BookSection: "*"
+  BookSearch: true
+  BookComments: false
+  BookPortableLinks: "warning"
+  BookDateFormat: "January 2, 2006"
+  BookEditLink: "https://github.com/focusconsulting/focus-ai-playbooks/edit/main/content/{{ .Path }}"

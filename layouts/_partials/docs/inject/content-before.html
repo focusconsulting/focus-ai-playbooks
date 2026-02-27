@@ -1,0 +1,7 @@
+{{ with .GetTerms "tags" }}
+<div class="book-tags" style="margin-bottom: 1rem;">
+  {{ range . }}
+    <a href="{{ .RelPermalink }}" class="book-tag" style="display: inline-block; padding: 0.15rem 0.5rem; margin: 0.15rem 0.25rem 0.15rem 0; background: var(--gray-200); border-radius: 3px; font-size: 0.8rem; text-decoration: none;">{{ .LinkTitle }}</a>
+  {{ end }}
+</div>
+{{ end }}
