@@ -7,4 +7,4 @@ categories: ["Tools"]
 
 # Claude Code
 
-*This page is a placeholder for Claude Code content.*
+*Under construction.*
