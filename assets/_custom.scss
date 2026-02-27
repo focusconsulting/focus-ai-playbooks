@@ -1,0 +1,116 @@
+/* Focus Consulting brand styles — matches focusconsulting.io */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:wght@400;600;700&display=swap');
+
+:root {
+  --fc-navy: #091741;
+  --fc-red: #e53e3e;
+  --fc-teal: #234e52;
+  --fc-mint: #b2f5ea;
+  --fc-blue: #3182ce;
+  --fc-off-white: #f7fafc;
+  --fc-body-text: #1a202c;
+}
+
+/* Fonts */
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Source Serif 4', serif;
+  font-weight: 600;
+}
+
+/* Light theme overrides */
+@mixin theme-light {
+  --body-background: white;
+  --body-font-color: var(--fc-body-text);
+  --color-link: var(--fc-blue);
+  --color-visited-link: var(--fc-teal);
+
+  --gray-100: var(--fc-off-white);
+  --gray-200: #e2e8f0;
+  --gray-500: #a0aec0;
+}
+
+/* Dark theme overrides */
+@mixin theme-dark {
+  --body-background: #1a202c;
+  --body-font-color: #e2e8f0;
+  --color-link: #90cdf4;
+  --color-visited-link: #b2f5ea;
+
+  --gray-100: #2d3748;
+  --gray-200: #4a5568;
+  --gray-500: #a0aec0;
+}
+
+/* Navy sidebar */
+.book-menu .book-menu-content {
+  background: var(--fc-navy);
+  color: #e2e8f0;
+}
+
+.book-menu a,
+.book-menu label {
+  color: rgba(255, 255, 255, 0.85) !important;
+}
+
+.book-menu a:hover,
+.book-menu label:hover {
+  color: white !important;
+  opacity: 1 !important;
+}
+
+.book-menu a.active {
+  color: white !important;
+  font-weight: 600;
+}
+
+.book-menu .book-icon {
+  filter: brightness(0) invert(1);
+}
+
+/* Search input in navy sidebar */
+.book-search input {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.2);
+  color: white;
+
+  &::placeholder {
+    color: rgba(255, 255, 255, 0.5);
+  }
+}
+
+.book-search .book-search-spinner {
+  border-top-color: white;
+}
+
+/* Brand element in sidebar */
+.book-brand {
+  font-family: 'Source Serif 4', serif;
+  font-weight: 700;
+
+  a, a[href] {
+    color: var(--fc-red) !important;
+  }
+}
+
+/* Tags styling with brand red accent */
+.book-tags .book-tag {
+  background: rgba(229, 62, 62, 0.1) !important;
+  color: var(--fc-red) !important;
+  border: 1px solid rgba(229, 62, 62, 0.25);
+}
+
+.book-tags .book-tag:hover {
+  background: rgba(229, 62, 62, 0.2) !important;
+}
+
+/* Mobile menu overlay background */
+@media screen and (max-width: 56rem) {
+  .book-menu .book-menu-content {
+    background: var(--fc-navy);
+  }
+}
