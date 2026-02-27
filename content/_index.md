@@ -20,7 +20,3 @@ This is a living document. If you've found a workflow that consistently produces
 - ### [Best Practices](/best-practices/)
   Standards and conventions for doing good work and delivering projects.
 {{% /columns %}}
-
-## Browse by Tag
-
-See all content organized by topic on the [tags page](/tags/).
