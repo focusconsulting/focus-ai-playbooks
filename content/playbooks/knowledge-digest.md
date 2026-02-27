@@ -12,7 +12,7 @@ related_playbooks:
 
 Most people use AI to get answers — ask a question, read the explanation, move on. But passive consumption isn't learning. You can follow every sentence and still not retain the idea five minutes later.
 
-This prompt flips that. It uses AI to pull understanding out of you instead of pouring information in. Seven steps, in a specific sequence, designed to move your thinking from basic recall all the way through application, evaluation, and creation. Run it as a Claude skill, a ChatGPT agent, or paste it into any chat session.
+This prompt flips that. It uses AI to pull understanding out of you instead of pouring information in. Seven steps, in a specific sequence, designed to move your thinking from basic recall all the way through application, evaluation, and creation.
 
 ## Background
 
@@ -34,9 +34,7 @@ See the [References](#references) section to learn more.
 
 ## The Play
 
-### 0. Insert the prompt
-
-Open a fresh session and paste the prompt from the section below. This sets the rules before any material is introduced — the AI won't know how to behave without it.
+> **Before you start:** paste the prompt from [The Prompt](#the-prompt) section into a fresh session. This sets the rules before any material is introduced — the AI won't know how to behave without it.
 
 ### 1. Feed in the material
 
@@ -57,10 +55,10 @@ The AI runs a 7-step sequence across the material:
 1. **Anchor** — Explain the concept without quoting the source. No borrowed language.
 2. **Connect** — Where does this fit in what you already know? What does it relate to or replace?
 3. **Translate** — The AI gives you a specific scenario. You reason through it.
-4. **Stress Test** — Where does it break? What's the edge case or hidden dependency? The AI pushes until the gap surfaces.
-5. **Evaluate** — Form a position. The AI puts two opposing views on the table — you pick one and defend it.
-6. **Build** — Teach the whole concept back without referencing anything. Your own words, to someone who doesn't know it. This is the gate check — you don't move on until you can do this cleanly.
-7. **Synthesis** — After all concepts are covered: what's the single mental model that ties everything together?
+4. **Dissect** — Surface hidden assumptions and context. What's being taken for granted? What breaks the model?
+5. **Stress Test** — Where does it break? What's the edge case or hidden dependency? The AI pushes until the gap surfaces.
+6. **Evaluate** — Form a position. The AI puts two opposing views on the table — you pick one and defend it.
+7. **Build** — Teach the whole concept back without referencing anything. Your own words, to someone who doesn't know it. This is the gate check — you don't move on until you can do this cleanly.
 
 Key rules during the session:
 - No unprompted lectures. Stuck? The AI gives minimum context and returns immediately to questioning.
@@ -160,7 +158,7 @@ Reject categorical answers. Require: a specific person, a specific action, a spe
 
 ### 🧠 Socratic Session: React useEffect
 
-*Assumes the prompt has been inserted. See [The Prompt](#the-prompt) section.*
+*Assumes the prompt has been inserted. See [The Prompt](#the-prompt) section. This example is abbreviated — the Dissect step is omitted for brevity.*
 
 ---
 
