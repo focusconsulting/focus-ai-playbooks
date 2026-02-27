@@ -16,7 +16,7 @@ Every playbook follows the same structure: an **overview** of what it does and w
 - [Decision Documentation]({{< relref "decision-documentation" >}})
 - [Generating Speaker Notes]({{< relref "generating-speaker-notes" >}})
 - [Generating Variations]({{< relref "generating-variations" >}})
-- [Knowledge Digest]({{< relref "knowledge-digest" >}})
+- [Knowledge Digest]({{< relref "knowledge-digest" >}}) — Learn any material by answering questions — AI teaches by pulling out understanding, not pouring in information.
 - [Research Assistant]({{< relref "research-assistant" >}}) — Targeted research synthesis for a specific purpose, turning raw sources into actionable preparation.
 - [Rubber Duck with Memory]({{< relref "rubber-duck-with-memory" >}}) — Think out loud with an AI that asks good questions and writes everything down.
 - [Rubric Driven Assessment]({{< relref "rubric-driven-assessment" >}}) — Codify your thinking into a concrete rubric, then let AI apply it consistently as your work evolves.
