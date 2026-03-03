@@ -3,7 +3,7 @@ title: "Claude Code"
 description: "A command-line tool for AI-assisted development."
 ---
 
-## What It Is
+# Claude Code
 
 Claude Code is a command-line tool that brings AI into your development workflow directly from the terminal. It can generate code, debug issues, refactor existing code, explore unfamiliar codebases, and help with architecture decisions.
 

@@ -3,7 +3,7 @@ title: "Claude + Google Drive"
 description: "Connect Claude to your Google Drive so it can read and work with your documents, spreadsheets, and files directly."
 ---
 
-## What It Is
+# Claude + Google Drive
 
 Claude can connect to your Google Drive, giving it the ability to read documents, spreadsheets, slides, and other files without you having to download and upload them manually. When connected, you can reference Drive files in your conversations and Claude will pull the content directly.
 

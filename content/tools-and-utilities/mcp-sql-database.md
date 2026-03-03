@@ -5,7 +5,7 @@ tags:
   - tooling
 ---
 
-## What This Does
+# MCP Server: SQL Database
 
 An MCP (Model Context Protocol) server acts as a bridge between Claude and an external tool or data source. In this case, you're connecting Claude to a SQL database so it can run queries, explore schemas, and pull data without you copying and pasting results back and forth.
 

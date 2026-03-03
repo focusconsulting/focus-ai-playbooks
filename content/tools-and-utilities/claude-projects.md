@@ -3,7 +3,7 @@ title: "Claude Projects"
 description: "Shared workspaces with persistent context for team collaboration."
 ---
 
-## What It Is
+# Claude Projects
 
 Claude Projects are shared workspaces where you can load in documents, guidelines, and prior work that persist across conversations. Everyone who has access to a project shares the same context, so the AI starts each conversation already understanding the background.
 

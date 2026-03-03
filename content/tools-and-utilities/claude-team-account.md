@@ -3,7 +3,7 @@ title: "Claude Team Account"
 description: "Your team's shared Claude account. Log in with SSO and request a seat."
 ---
 
-## What It Is
+# Claude Team Account
 
 Everyone on the team has access to Claude through a shared team account managed by Anthropic. This is your primary AI tool and the foundation for everything else in this section.
 

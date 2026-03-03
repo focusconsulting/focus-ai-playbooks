@@ -10,7 +10,7 @@ related_playbooks:
   - knowledge-digest
 ---
 
-## Overview
+# Onboarding Accelerator
 
 When someone joins an existing team, there's usually a mountain of context that already exists somewhere. Product briefs in Google Drive. Architecture decisions in Confluence. Strategy decks from last quarter. Roadmap documents. Meeting notes. Slack threads that settled important debates. The problem isn't that the knowledge doesn't exist — it's that nobody has time to walk the new person through all of it, and reading everything unguided takes weeks.
 

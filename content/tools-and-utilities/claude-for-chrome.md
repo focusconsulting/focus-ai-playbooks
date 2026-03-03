@@ -3,7 +3,7 @@ title: "Claude for Chrome"
 description: "A browser extension that lets Claude see and interact with the page you're looking at."
 ---
 
-## What It Is
+# Claude for Chrome
 
 Claude for Chrome is a browser extension that lets Claude interact with whatever page you have open. Instead of copying and pasting content from a website into a Claude conversation, the extension lets Claude read the page directly and work with what's there.
 
