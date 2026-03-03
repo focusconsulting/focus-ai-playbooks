@@ -10,7 +10,7 @@ related_playbooks:
   - generating-variations
 ---
 
-## Overview
+# Rubric Driven Assessment
 
 You already know what good looks like. The problem is applying that judgment consistently — especially when you're deep in the work and can't see it clearly anymore.
 

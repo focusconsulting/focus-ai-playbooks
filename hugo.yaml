@@ -1,13 +1,13 @@
 baseURL: https://playbooks.focusconsulting.com/
-title: Focus Consulting AI Playbooks
+title: Focus AI Playbooks
 theme: hugo-book
 languageCode: en-us
 
 enableGitInfo: true
 
-taxonomies:
-  tag: tags
-  category: categories
+disableKinds:
+  - taxonomy
+  - term
 
 markup:
   goldmark:

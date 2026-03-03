@@ -4,13 +4,13 @@ description: "The main interface for day-to-day AI work: writing, research, brai
 weight: 2
 ---
 
-## What It Is
+# Claude Desktop
 
 Claude Desktop is a standalone app that gives you a dedicated workspace for working with Claude outside the browser. It's the main tool for non-engineering AI work and where most of the playbooks are executed.
 
 ## Getting Started
 
-Download Claude Desktop and sign in with your team account. It's available for Mac and Windows.
+[Download Claude Desktop](https://claude.com/download) and sign in with your team account. It's available for Mac and Windows.
 
 ## When to Use It
 

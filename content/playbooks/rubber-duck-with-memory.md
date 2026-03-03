@@ -12,7 +12,7 @@ related_playbooks:
   - knowledge-digest
 ---
 
-## Overview
+# Rubber Duck with Memory
 
 In software engineering, rubber duck debugging means explaining your problem out loud to a rubber duck on your desk. The act of articulating the problem often reveals the solution. The duck doesn't need to say anything — the value is in forcing yourself to think clearly enough to explain.
 

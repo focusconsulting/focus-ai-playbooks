@@ -4,13 +4,13 @@ description: "A browser extension that lets Claude see and interact with the pag
 weight: 3
 ---
 
-## What It Is
+# Claude for Chrome
 
 Claude for Chrome is a browser extension that lets Claude interact with whatever page you have open. Instead of copying and pasting content from a website into a Claude conversation, the extension lets Claude read the page directly and work with what's there.
 
 ## Getting Started
 
-Install the Claude for Chrome extension from the Chrome Web Store and sign in with your team account.
+Install the [Claude for Chrome extension](https://chromewebstore.google.com/detail/claude/fcoeoabgfenejglbffodgkkbkcdhcgfn) from the Chrome Web Store and sign in with your team account.
 
 ## When to Use It
 
