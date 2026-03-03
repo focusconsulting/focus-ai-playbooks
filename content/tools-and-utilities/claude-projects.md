@@ -1,6 +1,7 @@
 ---
 title: "Claude Projects"
 description: "Shared workspaces with persistent context for team collaboration."
+weight: 5
 ---
 
 # Claude Projects

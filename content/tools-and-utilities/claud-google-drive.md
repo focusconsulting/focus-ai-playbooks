@@ -1,6 +1,7 @@
 ---
 title: "Claude + Google Drive"
 description: "Connect Claude to your Google Drive so it can read and work with your documents, spreadsheets, and files directly."
+weight: 7
 ---
 
 # Claude + Google Drive
