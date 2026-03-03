@@ -9,7 +9,7 @@ Claude for Chrome is a browser extension that lets Claude interact with whatever
 
 ## Getting Started
 
-Install the Claude for Chrome extension from the Chrome Web Store and sign in with your team account.
+Install the [Claude for Chrome extension](https://chromewebstore.google.com/detail/claude/fcoeoabgfenejglbffodgkkbkcdhcgfn) from the Chrome Web Store and sign in with your team account.
 
 ## When to Use It
 

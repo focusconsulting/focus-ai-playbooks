@@ -7,7 +7,7 @@ tags:
 
 # MCP Server: SQL Database
 
-An MCP (Model Context Protocol) server acts as a bridge between Claude and an external tool or data source. In this case, you're connecting Claude to a SQL database so it can run queries, explore schemas, and pull data without you copying and pasting results back and forth.
+An MCP ([Model Context Protocol](https://modelcontextprotocol.io/)) server acts as a bridge between Claude and an external tool or data source. In this case, you're connecting Claude to a SQL database so it can run queries, explore schemas, and pull data without you copying and pasting results back and forth.
 
 Once set up, you can ask Claude things like "what were our top ten customers by revenue last quarter" and it will write the SQL, run it against your database, and work with the results — all within the conversation. You stay in control of what it has access to and can review queries before they execute.
 

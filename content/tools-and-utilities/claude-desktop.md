@@ -9,7 +9,7 @@ Claude Desktop is a standalone app that gives you a dedicated workspace for work
 
 ## Getting Started
 
-Download Claude Desktop and sign in with your team account. It's available for Mac and Windows.
+[Download Claude Desktop](https://claude.com/download) and sign in with your team account. It's available for Mac and Windows.
 
 ## When to Use It
 
