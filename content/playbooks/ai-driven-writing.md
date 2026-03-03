@@ -11,7 +11,7 @@ related_playbooks:
   - rubber-duck-with-memory
 ---
 
-## Overview
+# AI Driven Writing
 
 Most people use AI for writing by dumping a vague prompt in and hoping something usable comes back. Sometimes it does. More often you get a wall of competent-sounding text that doesn't say what you meant, structured in a way you wouldn't have chosen, making points you didn't ask for.
 

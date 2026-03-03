@@ -10,7 +10,7 @@ related_playbooks:
   - secondary-ai-review
 ---
 
-## Overview
+# Generating Variations
 
 Sometimes the hardest part of producing something isn't the execution — it's choosing a direction. You need a tagline, a pitch, an email subject line, a section heading, a way to frame a recommendation. You have a rough idea of what you want to say but not the best way to say it. So you write one version, stare at it, wonder if there's something better, and either stick with it out of inertia or start second-guessing.
 

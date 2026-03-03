@@ -12,7 +12,7 @@ related_playbooks:
   - rubber-duck-with-memory
 ---
 
-## Overview
+# Audience Translation
 
 You wrote a solid document for one audience and now you need a version for a different one. The technical brief needs an executive summary. The internal strategy doc needs a client-facing version. The detailed proposal needs a two-pager for a stakeholder who won't read ten pages.
 

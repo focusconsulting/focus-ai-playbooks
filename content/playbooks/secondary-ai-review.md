@@ -10,7 +10,7 @@ related_playbooks:
   - generating-speaker-notes
 ---
 
-## Overview
+# Secondary AI Review
 
 When you work with AI on a piece of writing, the output picks up patterns. You've seen them even if you haven't named them. Filler phrases that sound confident but say nothing. Em-dashes used three times per paragraph. Lists where every item has exactly three sub-points. Hedging language that softens every claim. Transitions that all follow the same structure.
 

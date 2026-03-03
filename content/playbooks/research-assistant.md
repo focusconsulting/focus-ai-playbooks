@@ -11,7 +11,7 @@ related_playbooks:
   - knowledge-digest
 ---
 
-## Overview
+# Research Assistant
 
 This playbook is about using AI to do focused research for a specific, time-bound purpose. You have a meeting on Thursday, an interview on Monday, a proposal due next week. You need to understand something well enough to be effective, and you don't have four hours to read everything yourself.
 
