@@ -15,3 +15,4 @@ Quick-reference guides for the AI tools available to the team. Each page covers 
 - [Claude Projects]({{< relref "claude-projects" >}}) — Shared workspaces with persistent context for team collaboration.
 - [Claude Code]({{< relref "claude-code" >}})
 - [Claude + Google Drive]({{< relref "claud-google-drive" >}}) — Connect Claude to your Google Drive so it can read and work with your documents, spreadsheets, and files directly.
+- [MCP Server: SQL Database]({{< relref "mcp-sql-database" >}}) — Connect Claude to a SQL database so it can query data directly during conversations.

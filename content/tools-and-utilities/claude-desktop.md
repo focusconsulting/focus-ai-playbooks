@@ -1,6 +1,7 @@
 ---
 title: "Claude Desktop"
 description: "The main interface for day-to-day AI work: writing, research, brainstorming, and document review."
+weight: 2
 ---
 
 ## What It Is

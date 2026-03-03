@@ -1,6 +1,7 @@
 ---
 title: "Claude for Chrome"
 description: "A browser extension that lets Claude see and interact with the page you're looking at."
+weight: 3
 ---
 
 ## What It Is

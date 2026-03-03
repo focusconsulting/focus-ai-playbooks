@@ -1,6 +1,7 @@
 ---
 title: "MCP Server: SQL Database"
 description: "Connect Claude to a SQL database so it can query data directly during conversations."
+weight: 8
 tags:
   - tooling
 ---

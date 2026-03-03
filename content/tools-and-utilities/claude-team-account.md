@@ -1,6 +1,7 @@
 ---
 title: "Claude Team Account"
 description: "Your team's shared Claude account. Log in with SSO and request a seat."
+weight: 1
 ---
 
 ## What It Is

@@ -1,6 +1,7 @@
 ---
 title: "Claude Co-working"
 description: "Hand off well-defined tasks and let Claude work in the background while you focus on other things."
+weight: 4
 ---
 
 ## What It Is
