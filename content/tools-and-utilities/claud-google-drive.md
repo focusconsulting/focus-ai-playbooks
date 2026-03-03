@@ -5,7 +5,7 @@ description: "Connect Claude to your Google Drive so it can read and work with y
 
 ## What It Is
 
-Claude can connect to your Google Drive, giving it the ability to read documents, spreadsheets, slides, and other files without you having to download and upload them manually. When connected, you can reference Drive files in your conversations and Claude will pull the content directly.
+Claude can [connect to your Google Drive](https://support.anthropic.com/en/articles/10166901-using-the-google-docs-integration), giving it the ability to read documents, spreadsheets, slides, and other files without you having to download and upload them manually. When connected, you can reference Drive files in your conversations and Claude will pull the content directly.
 
 ## Getting Started
 

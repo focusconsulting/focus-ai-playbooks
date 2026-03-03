@@ -5,7 +5,7 @@ description: "Hand off well-defined tasks and let Claude work in the background 
 
 ## What It Is
 
-Claude Co-working is a mode where Claude works on a task in the background while you do other things. Instead of going back and forth in a conversation, you describe what you need, hand it off, and come back to a result.
+[Claude Co-working](https://support.claude.com/en/articles/13345190-get-started-with-cowork) is a mode where Claude works on a task in the background while you do other things. Instead of going back and forth in a conversation, you describe what you need, hand it off, and come back to a result.
 
 ## Getting Started
 

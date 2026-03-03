@@ -9,7 +9,7 @@ Claude Code is a command-line tool that brings AI into your development workflow
 
 ## Getting Started
 
-Claude Code is available through your team account. Install it and authenticate with your team credentials. It runs in your terminal and works with your local files and repositories.
+Claude Code is available through your team account. [Install it](https://docs.anthropic.com/en/docs/claude-code/setup) and authenticate with your team credentials. It runs in your terminal and works with your local files and repositories.
 
 ## When to Use It
 
