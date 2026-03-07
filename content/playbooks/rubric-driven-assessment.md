@@ -68,6 +68,22 @@ Provide the rubric in full and ask for a dimension-by-dimension assessment with 
 
 Use the rubric as a checkpoint throughout your workflow — after a draft, after a revision, after a major restructure. It gives you a signal on whether your edits are actually moving things in the right direction.
 
+### Add-on: Calibrate with human raters
+
+This step is optional but dramatically increases rubric reliability. It's especially worth doing when the rubric will be used repeatedly or when the stakes are high enough that "close enough" isn't good enough.
+
+**Select your raters and samples.** Choose two other people — ideally people who understand the domain or the audience. Then pick three pieces of content to evaluate. Choose items that span a range of quality: one you think is strong, one middling, one weak. This spread forces the rubric to differentiate rather than clustering everything in the same score range.
+
+**Have each person score independently.** Give all three raters (including you) the rubric and the three items. Everyone scores each item against each dimension without discussing it first. Independent scoring is important — you're trying to find where the rubric is ambiguous, and discussion before scoring masks exactly the disagreements you need to surface.
+
+**Level-set together.** Compare scores across all three raters. Where scores align, the rubric is clear. Where they diverge, dig in: was the indicator ambiguous? Did people interpret a dimension differently? Were the level descriptions too vague to distinguish a 3 from a 4? Work through the disagreements and agree on an expected score for each item across each dimension. These consensus scores become your benchmark.
+
+**Run the AI against the same items.** In a fresh session, give the AI the rubric and each of the three items. Compare its scores to the consensus scores from your human raters.
+
+**Iterate until scores converge.** Where the AI scores diverge from the human consensus, the rubric still has gaps — language that humans can interpret from context but that the AI reads differently, or indicators that aren't specific enough to produce consistent results across any evaluator. Revise the rubric and re-run until the AI's scores track closely with the human benchmark. You don't need perfect alignment, but the pattern of scores should match: the strong piece should score highest, the weak piece lowest, and the gaps between dimensions should be directionally consistent.
+
+The investment here pays off every time the rubric gets used afterward. A rubric that produces consistent scores across humans and AI is one you can trust to run without babysitting.
+
 ### Evolve the rubric over time
 
 Your standards will shift as you learn what works. When you notice the rubric missing something or over-weighting a dimension that stopped mattering, update it. Treat it as a living document.
