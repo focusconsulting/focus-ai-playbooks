@@ -39,7 +39,7 @@ Ask the outgoing person: "If I could only read ten documents to understand this 
 
 ### Set up a project with the core documents
 
-Create a [Claude Project](../tooling/claude-projects.md) and load it with the key documents you've identified. If the content lives in [Google Drive](../tooling/claude-google-drive.md), you can connect it directly rather than downloading and uploading.
+Create a project and load it with the key documents you've identified. If the content lives in Google Drive, you can connect it directly rather than downloading and uploading.
 
 For content in Confluence or other tools, you'll need to export or copy it in. Markdown or plain text works fine — the AI cares about content, not layout.
 
@@ -71,7 +71,7 @@ Second, it gives you something to validate. Take the document to the outgoing pe
 
 ### Use it as a launchpad, not a crutch
 
-The onboarding document and the Claude Project get you up to speed faster. They're not a permanent substitute for actually knowing your domain. Once you've built your initial mental model, start doing the work — sit in meetings, make decisions, write documents. The understanding that sticks comes from doing, not reading.
+The onboarding document and the AI project get you up to speed faster. They're not a permanent substitute for actually knowing your domain. Once you've built your initial mental model, start doing the work — sit in meetings, make decisions, write documents. The understanding that sticks comes from doing, not reading.
 
 The project stays useful as a reference when you need to remember why something was decided or what the original reasoning was. But the goal is to get to the point where you don't need it for most things.
 

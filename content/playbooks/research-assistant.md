@@ -41,7 +41,7 @@ Pull together whatever raw material you have: LinkedIn profiles, company website
 
 Be deliberate about what you include, though. If you're preparing for a meeting with a specific person, their LinkedIn, recent talks or posts, and their company's latest news are high-signal. A random industry report from two years ago probably isn't.
 
-If you don't have sources yet, the AI can help find them — search for recent news about the company, find published work by a particular person, identify key reports in a domain. [Claude for Chrome](../tooling/claude-for-chrome.md) is especially useful here: you can browse LinkedIn profiles, company pages, and articles and have Claude process what's on the page without copying and pasting content back and forth. But treat this step as gathering, not analysis. Collect first, synthesize second.
+If you don't have sources yet, the AI can help find them — search for recent news about the company, find published work by a particular person, identify key reports in a domain. But treat this step as gathering, not analysis. Collect first, synthesize second.
 
 ### Give the AI your sources and your questions
 
