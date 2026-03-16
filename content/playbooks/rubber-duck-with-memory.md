@@ -52,7 +52,7 @@ This is what separates a useful session from a chat that vanishes. As your think
 
 Some people do this at natural breaks in the conversation. Others ask the AI to maintain a running document that gets updated as the discussion goes. Either works. What matters is that the output isn't the conversation history — it's a clean artifact that future-you can pick up without re-reading the whole thread.
 
-If you're using a tool that supports persistent documents (like Claude's artifacts or a connected notes app), keep the document open alongside the conversation so you can watch your thinking accumulate.
+If you're using a tool that supports persistent documents (like artifacts or a connected notes app), keep the document open alongside the conversation so you can watch your thinking accumulate.
 
 ### Come back to it
 

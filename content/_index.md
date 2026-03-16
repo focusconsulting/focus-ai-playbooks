@@ -32,14 +32,7 @@ Repeatable workflows for getting consistent, high-quality outcomes from AI: writ
 
 Reference guides for the AI tools and utilities we use day-to-day.
 
-- [Claude Team Account](/tools-and-utilities/claude-team-account/): Your team's shared Claude account. Log in with SSO and request a seat.
-- [Claude Desktop](/tools-and-utilities/claude-desktop/): The main interface for day-to-day AI work: writing, research, brainstorming, and document review.
-- [Claude for Chrome](/tools-and-utilities/claude-for-chrome/): A browser extension that lets Claude see and interact with the page you're looking at.
-- [Claude Co-working](/tools-and-utilities/claude-co-working/): Hand off well-defined tasks and let Claude work in the background while you focus on other things.
-- [Claude Projects](/tools-and-utilities/claude-projects/): Shared workspaces with persistent context for team collaboration.
-- [Claude Code](/tools-and-utilities/claude-code/): A command-line tool for AI-assisted development.
-- [Claude + Google Drive](/tools-and-utilities/claud-google-drive/): Connect Claude to your Google Drive so it can read and work with your documents, spreadsheets, and files directly.
-- [MCP Server: SQL Database](/tools-and-utilities/mcp-sql-database/): Connect Claude to a SQL database so it can query data directly during conversations.
+- [MCP Server: SQL Database](/tools-and-utilities/mcp-sql-database/): Connect to a SQL database so AI can query data directly during conversations.
 
 ## [Best Practices](/best-practices/)
 
