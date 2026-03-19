@@ -76,6 +76,10 @@ Rubber ducking is generative but it can become a way to avoid committing. If you
 
 Read the document one more time, make a call, and move on. It'll still be there if you need to revisit the reasoning.
 
+## Rubber Duck or Knowledge Digest?
+
+Both playbooks use AI to ask questions and push your thinking. The difference is whether you already own the material. Ask yourself: "Could I explain this to someone right now without looking at the source?" If yes, you're in the right place — you have the knowledge, you just need to untangle it or structure your position. If the honest answer is no, start with [Knowledge Digest](knowledge-digest.md) to internalize the material first, then come back here to work through what you think about it.
+
 ## Related Playbooks
 
 - [AI Driven Writing](ai-driven-writing.md) — If your rubber duck session is about figuring out what you want to say, the document you produce can become the thesis and raw material for the writing pipeline.
