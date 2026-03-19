@@ -8,7 +8,7 @@ related_playbooks:
   - rubber-duck-with-memory
 ---
 
-## Overview
+# Knowledge Digest
 
 Most people use AI to get answers — ask a question, read the explanation, move on. But passive consumption isn't learning. You can follow every sentence and still not retain the idea five minutes later.
 
@@ -143,6 +143,10 @@ Reject categorical answers. Require: a specific person, a specific action, a spe
 - Strong answer → acknowledge briefly, advance immediately (don't dwell)
 - Struggling user → don't rescue immediately; let them sit in discomfort for one follow-up question before offering context
 ```
+
+## Knowledge Digest or Rubber Duck?
+
+Both playbooks use AI questioning to sharpen your thinking, but they solve different problems. If you're staring at material you haven't fully internalized yet — you've read it but couldn't explain it without looking — this is the right playbook. If you already own the knowledge and just need to untangle your thinking, structure a position, or work through a decision, skip ahead to [Rubber Duck with Memory]({{< relref "rubber-duck-with-memory" >}}).
 
 ## Related Playbooks
 
