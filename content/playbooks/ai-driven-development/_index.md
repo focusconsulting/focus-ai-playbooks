@@ -1,6 +1,7 @@
 ---
 title: "AI Driven Development"
 description: "A human-in-the-loop development workflow that uses AI for research, planning, implementation, and validation while keeping every decision with the developer."
+bookCollapseSection: true
 tags:
   - engineering
 related_playbooks:
@@ -17,10 +18,10 @@ This playbook is a structured development workflow where AI handles the research
 
 The workflow has four phases, each covered in its own page:
 
-1. **[Generating a PRD](ai-driven-development/generating-a-prd.md)** — Interrogate the requirements with AI help and produce a product requirements document with clear acceptance criteria and manual verification steps.
-2. **[Task Breakdown and Planning](ai-driven-development/task-breakdown-and-planning.md)** — Break the PRD into parallelizable tasks, then use AI to create detailed implementation plans with automated and manual verification.
-3. **[Implementation and Validation](ai-driven-development/implementation-and-validation.md)** — Execute the plans, validate in a fresh AI session, and handle the feedback loop when things don't match.
-4. **[PR Strategy](ai-driven-development/pr-strategy.md)** — Structure your pull requests so reviewers can give meaningful feedback and the feature can be rolled back cleanly.
+1. **[Generating a PRD](generating-a-prd.md)** — Interrogate the requirements with AI help and produce a product requirements document with clear acceptance criteria and manual verification steps.
+2. **[Task Breakdown and Planning](task-breakdown-and-planning.md)** — Break the PRD into parallelizable tasks, then use AI to create detailed implementation plans with automated and manual verification.
+3. **[Implementation and Validation](implementation-and-validation.md)** — Execute the plans, validate in a fresh AI session, and handle the feedback loop when things don't match.
+4. **[PR Strategy](pr-strategy.md)** — Structure your pull requests so reviewers can give meaningful feedback and the feature can be rolled back cleanly.
 
 ## When to Use
 
@@ -34,7 +35,7 @@ The workflow has four phases, each covered in its own page:
 
 - Quick bug fixes where you already know the cause and the fix.
 - Trivial changes: copy updates, config tweaks, adding a field to an existing form.
-- Exploratory spikes where you're deliberately trying things without committing to an approach. Use [Rubber Duck with Memory](rubber-duck-with-memory.md) for that.
+- Exploratory spikes where you're deliberately trying things without committing to an approach. Use [Rubber Duck with Memory](../rubber-duck-with-memory.md) for that.
 
 ## The Workflow at a Glance
 
@@ -60,7 +61,7 @@ flowchart TD
 
 ## Tooling
 
-This workflow uses a set of slash commands that are configured per-repository. Both Claude Code and OpenCode support these commands through their respective configuration directories (`.claude/commands/` for Claude Code, `.opencode/commands/` for OpenCode). Each repo will have its own adjusted versions since they encode repo-specific paths, test commands, and conventions. See [Adapting Development Skills to Your Repo](../best-practices/adapting-dev-skills.md) for how to customize them. The core commands are:
+This workflow uses a set of slash commands that are configured per-repository. Both Claude Code and OpenCode support these commands through their respective configuration directories (`.claude/commands/` for Claude Code, `.opencode/commands/` for OpenCode). Each repo will have its own adjusted versions since they encode repo-specific paths, test commands, and conventions. See [Adapting Development Skills to Your Repo](../../best-practices/adapting-dev-skills.md) for how to customize them. The core commands are:
 
 - `/research_codebase` — Spawns parallel agents to document how the codebase works today, without suggesting changes. Produces a research document in `thoughts/shared/research/`.
 - `/create_plan` — Interactive planning that researches the codebase, surfaces questions, and writes a detailed implementation plan with phased changes and separated automated/manual verification.
@@ -79,6 +80,6 @@ The AI also uses specialized agents during research and planning:
 
 ## Related Playbooks
 
-- [Decision Documentation](decision-documentation.md) — When the AI or the planning process surfaces a significant architectural choice, document it. The `/create_adr` command handles this within the workflow.
-- [Rubber Duck with Memory](rubber-duck-with-memory.md) — If you're uncertain about the approach before you start planning, talk it through first. The document from a rubber duck session can feed directly into the PRD phase.
-- [SOP / Process Documentation](sop-process-documentation.md) — If the feature introduces a new operational process, document it alongside the code.
+- [Decision Documentation](../decision-documentation.md) — When the AI or the planning process surfaces a significant architectural choice, document it. The `/create_adr` command handles this within the workflow.
+- [Rubber Duck with Memory](../rubber-duck-with-memory.md) — If you're uncertain about the approach before you start planning, talk it through first. The document from a rubber duck session can feed directly into the PRD phase.
+- [SOP / Process Documentation](../sop-process-documentation.md) — If the feature introduces a new operational process, document it alongside the code.
