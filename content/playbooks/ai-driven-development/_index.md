@@ -41,25 +41,13 @@ The workflow has four phases, each covered in its own page:
 
 ```mermaid
 flowchart TD
-    A["Ticket / User Story"] --> B["Generate PRD
-    AI researches codebase
-    Human interrogates requirements
-    Human approves PRD"]
+    A["Ticket / User Story"]
+    B["<b>Generate PRD</b><br/>AI researches codebase<br/>Human interrogates requirements<br/>Human approves PRD"]
+    C["<b>Break into Tasks + Plans</b><br/>Human + AI identify tasks and dependencies<br/>AI creates plans via /create_plan<br/>Human reviews plans for verification coverage"]
+    D["<b>Implement + Validate</b><br/>AI executes via /implement_plan<br/>Fresh AI session runs /validate_plan<br/>Human performs manual verification"]
+    E["<b>PR + Review</b><br/>PRD branch with task PRs<br/>Final PR to main, human code review"]
 
-    B --> C["Break into Tasks + Plans
-    Human + AI identify tasks and dependencies
-    AI creates plans via /create_plan
-    Human reviews plans for verification coverage"]
-
-    C --> D["Implement + Validate
-    AI executes via /implement_plan
-    Fresh AI session runs /validate_plan
-    Human performs manual verification"]
-
-    D --> E["PR + Review
-    PRD branch with task PRs
-    Final PR to main
-    Human code review"]
+    A --> B --> C --> D --> E
 ```
 
 ## Tooling
