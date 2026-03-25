@@ -10,6 +10,7 @@ Repeatable workflows for getting consistent, high-quality outcomes from AI. Each
 
 Every playbook follows the same structure: an **overview** of what it does and why, **when to use** it, **the play** itself as a sequence of concrete steps, **related playbooks** that connect to it, and **examples**.
 
+- [AI Driven Development]({{< relref "ai-driven-development" >}}) — A human-in-the-loop development workflow from requirements through implementation, validation, and PR review.
 - [AI Driven Writing]({{< relref "ai-driven-writing" >}}) — Go from thesis to outline to filled content, keeping the human in control of the thinking at every stage.
 - [Audience Translation]({{< relref "audience-translation" >}})
 - [Automated Journaling]({{< relref "automated-journaling" >}})
