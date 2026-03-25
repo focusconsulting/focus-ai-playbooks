@@ -21,5 +21,6 @@ Quick-reference guides for the AI tools available to the team. Each page covers 
 - [Ollama]({{< relref "ollama" >}}) — Run open-source large language models locally on your machine.
 - [LM Studio]({{< relref "lm-studio" >}}) — A desktop app for discovering, downloading, and running local large language models.
 - [AnythingLLM]({{< relref "anythingllm" >}}) — An open-source desktop app for chatting with LLMs, attaching documents, and building AI agent workflows.
+- [Dev Containers]({{< relref "dev-containers" >}}) — Run your development environment inside a container for isolation and safe autonomous AI agent usage.
 - [Voice Input]({{< relref "voice-input" >}}) — Use your voice to interact with AI tools for faster capture and more natural explanations.
 - [Obsidian + MCP]({{< relref "obsidian-mcp" >}}) — Connect your Obsidian vault to an AI agent so it can read and write your notes directly.
