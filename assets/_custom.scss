@@ -108,6 +108,11 @@ h1, h2, h3, h4, h5, h6 {
   background: rgba(229, 62, 62, 0.2) !important;
 }
 
+/* Center mermaid diagrams */
+.mermaid {
+  text-align: center;
+}
+
 /* Mobile menu overlay background */
 @media screen and (max-width: 56rem) {
   .book-menu .book-menu-content {

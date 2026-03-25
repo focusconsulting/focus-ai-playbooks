@@ -1,0 +1,10 @@
+{{- /* remove whitespaces */ -}}
+<pre class="mermaid">{{ .Inner | htmlEscape | safeHTML -}}</pre>
+{{- if not (.Page.Store.Get "mermaid") -}}
+  <script src="{{ "mermaid.min.js" | relURL }}"></script>
+  <script>
+    var isDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+    mermaid.initialize({ flowchart: { useMaxWidth: true }, theme: isDark ? 'dark' : 'default' });
+  </script>
+  {{- .Page.Store.Set "mermaid" true -}}
+{{- end -}}
