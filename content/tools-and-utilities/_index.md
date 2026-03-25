@@ -16,3 +16,10 @@ Quick-reference guides for the AI tools available to the team. Each page covers 
 - [Claude Code]({{< relref "claude-code" >}})
 - [Claude + Google Drive]({{< relref "claud-google-drive" >}}) — Connect Claude to your Google Drive so it can read and work with your documents, spreadsheets, and files directly.
 - [MCP Server: SQL Database]({{< relref "mcp-sql-database" >}}) — Connect Claude to a SQL database so it can query data directly during conversations.
+- [OpenCode]({{< relref "opencode" >}}) — An open-source terminal-based AI coding assistant.
+- [Slate]({{< relref "slate" >}}) — A terminal-based AI agent for extended collaborative coding sessions.
+- [Ollama]({{< relref "ollama" >}}) — Run open-source large language models locally on your machine.
+- [LM Studio]({{< relref "lm-studio" >}}) — A desktop app for discovering, downloading, and running local large language models.
+- [AnythingLLM]({{< relref "anythingllm" >}}) — An open-source desktop app for chatting with LLMs, attaching documents, and building AI agent workflows.
+- [Voice Input]({{< relref "voice-input" >}}) — Use your voice to interact with AI tools for faster capture and more natural explanations.
+- [Obsidian + MCP]({{< relref "obsidian-mcp" >}}) — Connect your Obsidian vault to an AI agent so it can read and write your notes directly.
