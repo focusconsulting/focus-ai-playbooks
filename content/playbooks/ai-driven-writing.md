@@ -77,7 +77,3 @@ If the document has been through a few rounds of revision, consider running it t
 - [Audience Translation](audience-translation.md) — Once you have a strong base document, adapt it for different audiences rather than writing from scratch each time.
 - [Generating Variations](generating-variations.md) — If you're stuck on framing early in the process, generate variations of your thesis or key messages before committing to a direction.
 - [Rubber Duck with Memory](rubber-duck-with-memory.md) — If you're struggling to articulate your thesis, talk it through first. The thesis often emerges from conversation before it emerges from writing.
-
-## Examples
-
-*Examples coming soon.*

@@ -118,7 +118,3 @@ Help me draft a decision document based on this conversation. Structure it as:
 
 Keep it concise. This should be readable by someone who wasn't in the room.
 ```
-
-## Examples
-
-*Examples coming soon.*

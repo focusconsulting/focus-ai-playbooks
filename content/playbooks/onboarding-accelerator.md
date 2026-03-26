@@ -81,7 +81,3 @@ The project stays useful as a reference when you need to remember why something 
 - [Rubber Duck with Memory](rubber-duck-with-memory.md) — As you form opinions about what should change or what needs attention, talk it through. The onboarding document gives you context; the rubber duck session helps you figure out what to do with it.
 - [Active Learning Partner](active-learning-partner.md) — If there are domains you need to learn deeply, not just understand the team's context around, use this to build that knowledge through dialogue.
 - [Knowledge Digest](knowledge-digest.md) — Once you're onboarded, transition to a digest workflow to keep processing new information as it comes in rather than doing another big ramp-up later.
-
-## Examples
-
-*Examples coming soon.*

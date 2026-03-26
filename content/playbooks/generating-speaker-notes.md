@@ -134,7 +134,3 @@ and should give the audience a sense of where we're going.
 Notes:
 [paste notes]
 ```
-
-## Examples
-
-*Examples coming soon.*

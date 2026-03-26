@@ -112,7 +112,3 @@ Return the full edited document. Do not explain your changes.
 
 [PASTE CONTENT HERE]
 ```
-
-## Examples
-
-*Examples coming soon.*

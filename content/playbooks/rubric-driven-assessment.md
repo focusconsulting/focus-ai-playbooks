@@ -94,7 +94,3 @@ Your standards will shift as you learn what works. When you notice the rubric mi
 - [Generating Speaker Notes](generating-speaker-notes.md) — Apply a rubric tuned for spoken delivery: pacing, audience awareness, transitions.
 - [Audience Translation](audience-translation.md) — Build audience-specific rubrics so the same content can be evaluated differently for different readers.
 - [Generating Variations](generating-variations.md) — Use a rubric to evaluate and rank variations of taglines, pitches, or messaging rather than relying on gut feel alone.
-
-## Examples
-
-*Examples coming soon.*

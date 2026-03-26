@@ -101,7 +101,3 @@ this process could follow without asking me questions. Include:
 
 Flag anywhere you're uncertain about the details or where my description had gaps.
 ```
-
-## Examples
-
-*Examples coming soon.*

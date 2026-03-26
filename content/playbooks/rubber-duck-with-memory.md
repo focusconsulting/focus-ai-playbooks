@@ -88,7 +88,3 @@ Both playbooks use AI to ask questions and push your thinking. The difference is
 - [SOP / Process Documentation](sop-process-documentation.md) — Sometimes you rubber duck your way through explaining how something works and realize you've written most of an SOP.
 - [Research Assistant](research-assistant.md) — Gather context before a rubber duck session so you're working from evidence, not memory.
 - [Knowledge Digest](knowledge-digest.md) — If you've been digesting content over time, your accumulated notes become high-quality input for rubber duck sessions.
-
-## Examples
-
-*Examples coming soon.*

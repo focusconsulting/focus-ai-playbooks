@@ -70,7 +70,3 @@ Some of the variations you don't pick now might work later. A tagline that's wro
 - [AI Driven Writing](ai-driven-writing.md) — If you're stuck on framing early in the writing process, generate variations of your thesis or key messages before committing to an outline.
 - [Audience Translation](audience-translation.md) — Generate variations targeted at different audiences from the same core message, then evaluate which framing works best for each.
 - [Secondary AI Review](secondary-ai-review.md) — Clean up the final version after combining and refining from multiple variations.
-
-## Examples
-
-*Examples coming soon.*

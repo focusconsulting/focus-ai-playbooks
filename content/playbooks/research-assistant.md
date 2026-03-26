@@ -72,7 +72,3 @@ If the research feeds into something ongoing rather than a single event, conside
 - [Onboarding Accelerator](onboarding-accelerator.md) — If you need to understand a whole domain, team, or role rather than prepare for a single event, the onboarding playbook is a better fit.
 - [Rubber Duck with Memory](rubber-duck-with-memory.md) — Once you have your research, talk through what it means and how to act on it.
 - [Knowledge Digest](knowledge-digest.md) — If a one-off research task turns into an ongoing need, transition to a digest workflow for continuous processing.
-
-## Examples
-
-*Examples coming soon.*

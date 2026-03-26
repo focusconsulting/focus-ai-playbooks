@@ -99,7 +99,3 @@ were the open questions?
 Notes:
 [paste notes]
 ```
-
-## Examples
-
-*Examples coming soon.*
