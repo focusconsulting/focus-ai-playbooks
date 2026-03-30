@@ -3,6 +3,7 @@ title: "Task Breakdown and Planning"
 description: "Break a PRD into parallelizable tasks with dependency ordering, then create detailed implementation plans."
 tags:
   - engineering
+weight: 2
 ---
 
 # Task Breakdown and Planning

@@ -3,6 +3,7 @@ title: "PR Strategy"
 description: "Structure pull requests for meaningful review using a PRD branch with task-level PRs."
 tags:
   - engineering
+weight: 4
 ---
 
 # PR Strategy

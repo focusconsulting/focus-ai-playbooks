@@ -3,6 +3,7 @@ title: "Implementation and Validation"
 description: "Execute plans with AI, then validate in a fresh session to catch blind spots."
 tags:
   - engineering
+weight: 3
 ---
 
 # Implementation and Validation
