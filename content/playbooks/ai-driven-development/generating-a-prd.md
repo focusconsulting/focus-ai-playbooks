@@ -3,6 +3,7 @@ title: "Generating a PRD"
 description: "Interrogate requirements with AI research and produce a product requirements document with clear acceptance criteria."
 tags:
   - engineering
+weight: 1
 ---
 
 # Generating a PRD
